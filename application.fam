@@ -1,0 +1,17 @@
+
+App(
+    appid="fusezero",
+    name="FuseZero",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="fusezero_app",
+    stack_size=4 * 1024,
+    requires=[
+        "gui",
+        "storage",
+    ],
+    fap_category="Tools",
+    fap_version=(1, 0),
+    fap_author="Marcopiiit",
+    fap_description="World clock: up to 4 cities with time zone difference",
+    fap_icon="fap_icon.png",
+)
