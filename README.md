@@ -48,10 +48,6 @@ Potential future features include:
 - Customizable city lists saved between sessions.
 - UTC offset display.
 
-## License
-
-Unless otherwise specified in this repository, no license is granted for redistribution or modification. Add a `LICENSE` file if you want to publish the project under an open-source license.
-
 ---
 
 **FuseZero — Four cities. One device. Global time at a glance.**
