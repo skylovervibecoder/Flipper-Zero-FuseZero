@@ -38,16 +38,6 @@ FuseZero is developed as an external application (FAP) for Flipper Zero.
 - **Platform:** Flipper Zero
 - **Purpose:** World clock with support for up to four cities
 
-## Future Improvements
-
-Potential future features include:
-
-- Searchable city selection.
-- A larger database of world cities.
-- Automatic daylight saving time handling.
-- Customizable city lists saved between sessions.
-- UTC offset display.
-
 ---
 
 **FuseZero — Four cities. One device. Global time at a glance.**
