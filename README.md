@@ -2,6 +2,8 @@
 
 **A World Clock for Flipper Zero**
 
+![fusezero](fusezero.png) ![fusezero2](fz.png)
+
 FuseZero is a Flipper Zero application that lets you view the local time in up to **four cities around the world**. It makes checking different time zones quick and convenient, directly from your Flipper Zero.
 
 ## Features
